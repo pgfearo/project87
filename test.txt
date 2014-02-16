@@ -1,2 +1,2 @@
 a short test
-added new line
+added new line - appended some more
