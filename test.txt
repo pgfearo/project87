@@ -1,1 +1,2 @@
 a short test
+added new line
